@@ -11,7 +11,7 @@ Steps
 5. Now login your walmart account with any PC browser ( Chromes works better)
 6. Open your transaction history
 7. Rt. Click and inspect and go to console tab.
-8. Paste the code from file (history to csv.js)
+8. Paste the code from file (walmart purchase history to csv.js)
 
 your browser automatically download the purchase history to csv file
 
